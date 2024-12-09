@@ -1,0 +1,51 @@
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.BLL.deps.json
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.BLL.runtimeconfig.json
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.BLL.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.BLL.pdb
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.DAL.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.DAL.pdb
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.AssemblyInfo.cs
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWit.BABC3E16.Up2Date
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\obj\Debug\net8.0\refint\MyWebWithEF.BLL.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.pdb
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.genruntimeconfig.cache
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\obj\Debug\net8.0\ref\MyWebWithEF.BLL.dll
+C:\Users\edikl\Downloads\web\lab3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.dll
+C:\Users\edikl\Downloads\web\lab3\MyWebWithEF.BLL\obj\Debug\net8.0\refint\MyWebWithEF.BLL.dll
+C:\Users\edikl\Downloads\web\lab3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.pdb
+C:\Users\edikl\Downloads\web\lab3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.csproj.AssemblyReference.cache
+C:\Users\edikl\Downloads\web\lab3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edikl\Downloads\web\lab3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.AssemblyInfoInputs.cache
+C:\Users\edikl\Downloads\web\lab3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.AssemblyInfo.cs
+C:\Users\edikl\Downloads\web\lab3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.csproj.CoreCompileInputs.cache
+C:\Users\edikl\Downloads\web\lab3\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.BLL.deps.json
+C:\Users\edikl\Downloads\web\lab3\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.BLL.runtimeconfig.json
+C:\Users\edikl\Downloads\web\lab3\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.BLL.dll
+C:\Users\edikl\Downloads\web\lab3\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.BLL.pdb
+C:\Users\edikl\Downloads\web\lab3\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.DAL.dll
+C:\Users\edikl\Downloads\web\lab3\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.DAL.pdb
+C:\Users\edikl\Downloads\web\lab3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWit.BABC3E16.Up2Date
+C:\Users\edikl\Downloads\web\lab3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.genruntimeconfig.cache
+C:\Users\edikl\Downloads\web\lab3\MyWebWithEF.BLL\obj\Debug\net8.0\ref\MyWebWithEF.BLL.dll
+C:\Users\edikl\Downloads\web\lab4\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.csproj.AssemblyReference.cache
+C:\Users\edikl\Downloads\web\lab4\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edikl\Downloads\web\lab4\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.AssemblyInfoInputs.cache
+C:\Users\edikl\Downloads\web\lab4\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.AssemblyInfo.cs
+C:\Users\edikl\Downloads\web\lab4\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.csproj.CoreCompileInputs.cache
+C:\Users\edikl\Downloads\web\lab4\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.dll
+C:\Users\edikl\Downloads\web\lab4\MyWebWithEF.BLL\obj\Debug\net8.0\refint\MyWebWithEF.BLL.dll
+C:\Users\edikl\Downloads\web\lab4\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.pdb
+C:\Users\edikl\Downloads\web\lab4\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.BLL.deps.json
+C:\Users\edikl\Downloads\web\lab4\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.BLL.runtimeconfig.json
+C:\Users\edikl\Downloads\web\lab4\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.BLL.dll
+C:\Users\edikl\Downloads\web\lab4\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.BLL.pdb
+C:\Users\edikl\Downloads\web\lab4\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.DAL.dll
+C:\Users\edikl\Downloads\web\lab4\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.DAL.pdb
+C:\Users\edikl\Downloads\web\lab4\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWit.BABC3E16.Up2Date
+C:\Users\edikl\Downloads\web\lab4\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.genruntimeconfig.cache
+C:\Users\edikl\Downloads\web\lab4\MyWebWithEF.BLL\obj\Debug\net8.0\ref\MyWebWithEF.BLL.dll

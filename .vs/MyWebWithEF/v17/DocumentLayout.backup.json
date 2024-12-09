@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edikl\\Downloads\\web\\lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F815852-53C0-45A2-B8E4-0368A5C92C25}|MyWebWithEF\\MyWebWithEF.csproj|c:\\users\\edikl\\downloads\\web\\lab4\\mywebwithef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F815852-53C0-45A2-B8E4-0368A5C92C25}|MyWebWithEF\\MyWebWithEF.csproj|solutionrelative:mywebwithef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D06A1C3-8C30-4D5E-BD23-911B9229E46F}|MyWebWithEF.BLL\\MyWebWithEF.BLL.csproj|c:\\users\\edikl\\downloads\\web\\lab4\\mywebwithef.bll\\components\\authcomponent\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D06A1C3-8C30-4D5E-BD23-911B9229E46F}|MyWebWithEF.BLL\\MyWebWithEF.BLL.csproj|solutionrelative:mywebwithef.bll\\components\\authcomponent\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F815852-53C0-45A2-B8E4-0368A5C92C25}|MyWebWithEF\\MyWebWithEF.csproj|c:\\users\\edikl\\downloads\\web\\lab4\\mywebwithef\\mywebwithef.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F815852-53C0-45A2-B8E4-0368A5C92C25}|MyWebWithEF\\MyWebWithEF.csproj|solutionrelative:mywebwithef\\mywebwithef.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D06A1C3-8C30-4D5E-BD23-911B9229E46F}|MyWebWithEF.BLL\\MyWebWithEF.BLL.csproj|c:\\users\\edikl\\downloads\\web\\lab4\\mywebwithef.bll\\mywebwithef.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D06A1C3-8C30-4D5E-BD23-911B9229E46F}|MyWebWithEF.BLL\\MyWebWithEF.BLL.csproj|solutionrelative:mywebwithef.bll\\mywebwithef.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D06A1C3-8C30-4D5E-BD23-911B9229E46F}|MyWebWithEF.BLL\\MyWebWithEF.BLL.csproj|c:\\users\\edikl\\downloads\\web\\lab4\\mywebwithef.bll\\base\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D06A1C3-8C30-4D5E-BD23-911B9229E46F}|MyWebWithEF.BLL\\MyWebWithEF.BLL.csproj|solutionrelative:mywebwithef.bll\\base\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D06A1C3-8C30-4D5E-BD23-911B9229E46F}|MyWebWithEF.BLL\\MyWebWithEF.BLL.csproj|c:\\users\\edikl\\downloads\\web\\lab4\\mywebwithef.bll\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D06A1C3-8C30-4D5E-BD23-911B9229E46F}|MyWebWithEF.BLL\\MyWebWithEF.BLL.csproj|solutionrelative:mywebwithef.bll\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F815852-53C0-45A2-B8E4-0368A5C92C25}|MyWebWithEF\\MyWebWithEF.csproj|c:\\users\\edikl\\downloads\\web\\lab4\\mywebwithef\\controllers\\user\\base\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F815852-53C0-45A2-B8E4-0368A5C92C25}|MyWebWithEF\\MyWebWithEF.csproj|solutionrelative:mywebwithef\\controllers\\user\\base\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F815852-53C0-45A2-B8E4-0368A5C92C25}|MyWebWithEF\\MyWebWithEF.csproj|c:\\users\\edikl\\downloads\\web\\lab4\\mywebwithef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F815852-53C0-45A2-B8E4-0368A5C92C25}|MyWebWithEF\\MyWebWithEF.csproj|solutionrelative:mywebwithef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F815852-53C0-45A2-B8E4-0368A5C92C25}|MyWebWithEF\\MyWebWithEF.csproj|c:\\users\\edikl\\downloads\\web\\lab4\\mywebwithef\\controllers\\admin\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F815852-53C0-45A2-B8E4-0368A5C92C25}|MyWebWithEF\\MyWebWithEF.csproj|solutionrelative:mywebwithef\\controllers\\admin\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F815852-53C0-45A2-B8E4-0368A5C92C25}|MyWebWithEF\\MyWebWithEF.csproj|c:\\users\\edikl\\downloads\\web\\lab4\\mywebwithef\\controllers\\admin\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F815852-53C0-45A2-B8E4-0368A5C92C25}|MyWebWithEF\\MyWebWithEF.csproj|solutionrelative:mywebwithef\\controllers\\admin\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F815852-53C0-45A2-B8E4-0368A5C92C25}|MyWebWithEF\\MyWebWithEF.csproj|c:\\users\\edikl\\downloads\\web\\lab4\\mywebwithef\\controllers\\user\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F815852-53C0-45A2-B8E4-0368A5C92C25}|MyWebWithEF\\MyWebWithEF.csproj|solutionrelative:mywebwithef\\controllers\\user\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F815852-53C0-45A2-B8E4-0368A5C92C25}|MyWebWithEF\\MyWebWithEF.csproj|c:\\users\\edikl\\downloads\\web\\lab4\\mywebwithef\\attributes\\customauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F815852-53C0-45A2-B8E4-0368A5C92C25}|MyWebWithEF\\MyWebWithEF.csproj|solutionrelative:mywebwithef\\attributes\\customauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D06A1C3-8C30-4D5E-BD23-911B9229E46F}|MyWebWithEF.BLL\\MyWebWithEF.BLL.csproj|c:\\users\\edikl\\downloads\\web\\lab4\\mywebwithef.bll\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D06A1C3-8C30-4D5E-BD23-911B9229E46F}|MyWebWithEF.BLL\\MyWebWithEF.BLL.csproj|solutionrelative:mywebwithef.bll\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D06A1C3-8C30-4D5E-BD23-911B9229E46F}|MyWebWithEF.BLL\\MyWebWithEF.BLL.csproj|c:\\users\\edikl\\downloads\\web\\lab4\\mywebwithef.bll\\migrations\\20241209012421_ed-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D06A1C3-8C30-4D5E-BD23-911B9229E46F}|MyWebWithEF.BLL\\MyWebWithEF.BLL.csproj|solutionrelative:mywebwithef.bll\\migrations\\20241209012421_ed-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D06A1C3-8C30-4D5E-BD23-911B9229E46F}|MyWebWithEF.BLL\\MyWebWithEF.BLL.csproj|c:\\users\\edikl\\downloads\\web\\lab4\\mywebwithef.bll\\components\\ideacomponent\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D06A1C3-8C30-4D5E-BD23-911B9229E46F}|MyWebWithEF.BLL\\MyWebWithEF.BLL.csproj|solutionrelative:mywebwithef.bll\\components\\ideacomponent\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D06A1C3-8C30-4D5E-BD23-911B9229E46F}|MyWebWithEF.BLL\\MyWebWithEF.BLL.csproj|c:\\users\\edikl\\downloads\\web\\lab4\\mywebwithef.bll\\components\\categorycomponent\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D06A1C3-8C30-4D5E-BD23-911B9229E46F}|MyWebWithEF.BLL\\MyWebWithEF.BLL.csproj|solutionrelative:mywebwithef.bll\\components\\categorycomponent\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D06A1C3-8C30-4D5E-BD23-911B9229E46F}|MyWebWithEF.BLL\\MyWebWithEF.BLL.csproj|c:\\users\\edikl\\downloads\\web\\lab4\\mywebwithef.bll\\components\\categorycomponent\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D06A1C3-8C30-4D5E-BD23-911B9229E46F}|MyWebWithEF.BLL\\MyWebWithEF.BLL.csproj|solutionrelative:mywebwithef.bll\\components\\categorycomponent\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D06A1C3-8C30-4D5E-BD23-911B9229E46F}|MyWebWithEF.BLL\\MyWebWithEF.BLL.csproj|c:\\users\\edikl\\downloads\\web\\lab4\\mywebwithef.bll\\components\\ideacomponent\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D06A1C3-8C30-4D5E-BD23-911B9229E46F}|MyWebWithEF.BLL\\MyWebWithEF.BLL.csproj|solutionrelative:mywebwithef.bll\\components\\ideacomponent\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D06A1C3-8C30-4D5E-BD23-911B9229E46F}|MyWebWithEF.BLL\\MyWebWithEF.BLL.csproj|c:\\users\\edikl\\downloads\\web\\lab4\\mywebwithef.bll\\components\\ideacomponent\\dtos\\posteditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D06A1C3-8C30-4D5E-BD23-911B9229E46F}|MyWebWithEF.BLL\\MyWebWithEF.BLL.csproj|solutionrelative:mywebwithef.bll\\components\\ideacomponent\\dtos\\posteditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D06A1C3-8C30-4D5E-BD23-911B9229E46F}|MyWebWithEF.BLL\\MyWebWithEF.BLL.csproj|c:\\users\\edikl\\downloads\\web\\lab4\\mywebwithef.bll\\components\\ideacomponent\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D06A1C3-8C30-4D5E-BD23-911B9229E46F}|MyWebWithEF.BLL\\MyWebWithEF.BLL.csproj|solutionrelative:mywebwithef.bll\\components\\ideacomponent\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF\\Controllers\\Admin\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "MyWebWithEF\\Controllers\\Admin\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF\\Controllers\\Admin\\CategoriesController.cs",
+              "RelativeToolTip": "MyWebWithEF\\Controllers\\Admin\\CategoriesController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:01:10.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF\\Controllers\\Admin\\PostsController.cs",
+              "RelativeDocumentMoniker": "MyWebWithEF\\Controllers\\Admin\\PostsController.cs",
+              "ToolTip": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF\\Controllers\\Admin\\PostsController.cs",
+              "RelativeToolTip": "MyWebWithEF\\Controllers\\Admin\\PostsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:57:52.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF.BLL\\Components\\AuthComponent\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "MyWebWithEF.BLL\\Components\\AuthComponent\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF.BLL\\Components\\AuthComponent\\Services\\AuthService.cs",
+              "RelativeToolTip": "MyWebWithEF.BLL\\Components\\AuthComponent\\Services\\AuthService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:46:59.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyWebWithEF.BLL.csproj",
+              "DocumentMoniker": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF.BLL\\MyWebWithEF.BLL.csproj",
+              "RelativeDocumentMoniker": "MyWebWithEF.BLL\\MyWebWithEF.BLL.csproj",
+              "ToolTip": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF.BLL\\MyWebWithEF.BLL.csproj*",
+              "RelativeToolTip": "MyWebWithEF.BLL\\MyWebWithEF.BLL.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-09T01:45:56.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF.BLL\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "MyWebWithEF.BLL\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF.BLL\\Enums\\UserRole.cs",
+              "RelativeToolTip": "MyWebWithEF.BLL\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:48:59.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF\\Program.cs",
+              "RelativeDocumentMoniker": "MyWebWithEF\\Program.cs",
+              "ToolTip": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF\\Program.cs",
+              "RelativeToolTip": "MyWebWithEF\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAiwDgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:01:50.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyWebWithEF.csproj",
+              "DocumentMoniker": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF\\MyWebWithEF.csproj",
+              "RelativeDocumentMoniker": "MyWebWithEF\\MyWebWithEF.csproj",
+              "ToolTip": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF\\MyWebWithEF.csproj*",
+              "RelativeToolTip": "MyWebWithEF\\MyWebWithEF.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-09T01:50:21.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserApiController.cs",
+              "DocumentMoniker": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF\\Controllers\\User\\Base\\UserApiController.cs",
+              "RelativeDocumentMoniker": "MyWebWithEF\\Controllers\\User\\Base\\UserApiController.cs",
+              "ToolTip": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF\\Controllers\\User\\Base\\UserApiController.cs",
+              "RelativeToolTip": "MyWebWithEF\\Controllers\\User\\Base\\UserApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:10:34.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF.BLL\\Base\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MyWebWithEF.BLL\\Base\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF.BLL\\Base\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MyWebWithEF.BLL\\Base\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:01:42.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF\\Controllers\\User\\PostsController.cs",
+              "RelativeDocumentMoniker": "MyWebWithEF\\Controllers\\User\\PostsController.cs",
+              "ToolTip": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF\\Controllers\\User\\PostsController.cs",
+              "RelativeToolTip": "MyWebWithEF\\Controllers\\User\\PostsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:55:19.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomAuthorizeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF\\Attributes\\CustomAuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "MyWebWithEF\\Attributes\\CustomAuthorizeAttribute.cs",
+              "ToolTip": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF\\Attributes\\CustomAuthorizeAttribute.cs",
+              "RelativeToolTip": "MyWebWithEF\\Attributes\\CustomAuthorizeAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:52:23.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF\\appsettings.json",
+              "RelativeDocumentMoniker": "MyWebWithEF\\appsettings.json",
+              "ToolTip": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF\\appsettings.json",
+              "RelativeToolTip": "MyWebWithEF\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T00:48:47.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF.BLL\\Settings\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "MyWebWithEF.BLL\\Settings\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF.BLL\\Settings\\JwtSettings.cs",
+              "RelativeToolTip": "MyWebWithEF.BLL\\Settings\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:48:44.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241209012421_Ed-Migration.cs",
+              "DocumentMoniker": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF.BLL\\Migrations\\20241209012421_Ed-Migration.cs",
+              "RelativeDocumentMoniker": "MyWebWithEF.BLL\\Migrations\\20241209012421_Ed-Migration.cs",
+              "ToolTip": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF.BLL\\Migrations\\20241209012421_Ed-Migration.cs",
+              "RelativeToolTip": "MyWebWithEF.BLL\\Migrations\\20241209012421_Ed-Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:24:21.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF.BLL\\Components\\CategoryComponent\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "MyWebWithEF.BLL\\Components\\CategoryComponent\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF.BLL\\Components\\CategoryComponent\\Services\\CategoryService.cs",
+              "RelativeToolTip": "MyWebWithEF.BLL\\Components\\CategoryComponent\\Services\\CategoryService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwBMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:19:23.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF.BLL\\Components\\CategoryComponent\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "MyWebWithEF.BLL\\Components\\CategoryComponent\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF.BLL\\Components\\CategoryComponent\\Entities\\Category.cs",
+              "RelativeToolTip": "MyWebWithEF.BLL\\Components\\CategoryComponent\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:00:22.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PostDto.cs",
+              "DocumentMoniker": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF.BLL\\Components\\IdeaComponent\\Dtos\\PostDto.cs",
+              "RelativeDocumentMoniker": "MyWebWithEF.BLL\\Components\\IdeaComponent\\Dtos\\PostDto.cs",
+              "ToolTip": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF.BLL\\Components\\IdeaComponent\\Dtos\\PostDto.cs",
+              "RelativeToolTip": "MyWebWithEF.BLL\\Components\\IdeaComponent\\Dtos\\PostDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T00:59:54.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PostEditDto.cs",
+              "DocumentMoniker": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF.BLL\\Components\\IdeaComponent\\Dtos\\PostEditDto.cs",
+              "RelativeDocumentMoniker": "MyWebWithEF.BLL\\Components\\IdeaComponent\\Dtos\\PostEditDto.cs",
+              "ToolTip": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF.BLL\\Components\\IdeaComponent\\Dtos\\PostEditDto.cs",
+              "RelativeToolTip": "MyWebWithEF.BLL\\Components\\IdeaComponent\\Dtos\\PostEditDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T00:55:52.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF.BLL\\Components\\IdeaComponent\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "MyWebWithEF.BLL\\Components\\IdeaComponent\\Services\\PostService.cs",
+              "ToolTip": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF.BLL\\Components\\IdeaComponent\\Services\\PostService.cs",
+              "RelativeToolTip": "MyWebWithEF.BLL\\Components\\IdeaComponent\\Services\\PostService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAhwBsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T00:52:07.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF.BLL\\Components\\IdeaComponent\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "MyWebWithEF.BLL\\Components\\IdeaComponent\\Entities\\Post.cs",
+              "ToolTip": "C:\\Users\\edikl\\Downloads\\web\\lab4\\MyWebWithEF.BLL\\Components\\IdeaComponent\\Entities\\Post.cs",
+              "RelativeToolTip": "MyWebWithEF.BLL\\Components\\IdeaComponent\\Entities\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T00:50:50.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
